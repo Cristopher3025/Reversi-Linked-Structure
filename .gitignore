@@ -1,0 +1,9 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+
+# OS
+.DS_Store
+Thumbs.db
